@@ -1,0 +1,11 @@
+matplotlib
+plotly
+numpy
+pandas
+scipy
+ipywidgets
+jupyter
+jupyterlab
+collections
+seaborn
+json
